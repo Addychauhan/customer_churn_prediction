@@ -36,5 +36,22 @@ XGBoost
 ## Streamlit Application
 Interactive web application for predicting customer churn probability.
 
-## Project Structure
-...
+## 📁 Project Structure
+
+```text
+customer_churn_prediction/
+│
+├── data/
+│   └── Churn_Modelling.csv
+│
+├── notebook/
+│   └── customer_churn_prediction.ipynb
+│
+├── streamlit_app/
+│   └── app.py
+│
+├── churn_model.pkl
+├── xgb_model.json
+├── churn_model_comparison.csv
+├── requirements.txt
+└── README.md
