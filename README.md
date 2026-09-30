@@ -10,7 +10,7 @@ Predicts whether a bank customer is likely to churn based on demographic, financ
 
 An interactive Streamlit dashboard where you enter a customer's details (credit score, age, balance, tenure, etc.) and get their churn probability, risk level, and a prediction back instantly.
 
-![App screenshot](<img width="1886" height="899" alt="image" src="https://github.com/user-attachments/assets/7bade4d8-a3fa-4083-9ad0-b103a863e340" />
+[App screenshot](<img width="1886" height="899" alt="image" src="https://github.com/user-attachments/assets/7bade4d8-a3fa-4083-9ad0-b103a863e340" />
 )
 
 ## Project Structure
