@@ -97,7 +97,7 @@ pip install -r requirements.txt
 ### Run the notebook
 
 ```bash
-jupyter notebook notebook/customer_churn_prediction_25_09_2026.ipynb
+[Open in Google Colab]https://colab.research.google.com/github.com/Addychauhan/customer_churn_prediction/tree/main)
 ```
 
 ### Run the Streamlit app
