@@ -53,7 +53,7 @@ customer_churn_prediction/
 | `Exited` | Target variable — 1 if the customer churned, 0 otherwise |
 
 <!-- Add the dataset source link if from Kaggle or elsewhere, e.g.: -->
-<!-- Source: [Kaggle — Bank Customer Churn](https://www.kaggle.com/...) -->
+Source: [Kaggle — Churn Modelling](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 
 ## Approach
 
