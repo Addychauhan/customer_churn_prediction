@@ -97,7 +97,7 @@ pip install -r requirements.txt
 ### Run the notebook
 
 ```bash
-[Open in Google Colab](https://colab.research.google.com/github/Addychauhan/customer_churn_prediction/blob/main/notebook/customer_churn_prediction_25_09_2026.ipynb)
+[Open in Google Colab]https://colab.research.google.com/github/Addychauhan/customer_churn_prediction/blob/main/notebook/customer_churn_prediction_25_09_2026.ipynb)
 ```
 
 ### Run the Streamlit app
